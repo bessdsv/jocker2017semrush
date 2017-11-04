@@ -1,0 +1,1 @@
+mvnw spring-boot:run -Drun.arguments="file=c:/tools/test.txt,outDir=c:/tools,links=true,headers=true"
